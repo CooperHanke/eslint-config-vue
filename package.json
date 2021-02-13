@@ -2,9 +2,13 @@
   "name": "@cooperhanke/eslint-config-view",
   "version": "1.0.0",
   "description": "Preferred eslint-config for Cooper",
+  "homepage": "https://github.com/CooperHanke/eslint-config-vue",
   "main": "index.js",
   "author": "Cooper Hanke",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "babel-eslint": "^10.0.3",
     "eslint-plugin-vue": "^6.2.2"
