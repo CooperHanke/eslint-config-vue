@@ -1,6 +1,6 @@
 {
-  "name": "@cooperhanke/eslint-config-view",
-  "version": "1.0.0",
+  "name": "@cooperhanke/eslint-config-vue",
+  "version": "1.0.1",
   "description": "Preferred eslint-config for Cooper",
   "homepage": "https://github.com/CooperHanke/eslint-config-vue",
   "main": "index.js",

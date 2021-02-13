@@ -7,6 +7,12 @@ module.exports = {
         'eslint:recommended',
         'plugin:vue/recommended'
     ],
+    parserOptions: {
+        parser: 'babel-eslint'
+    },
+    plugins: [
+        'vue'
+    ],
     rules: {
         // 0 - 'off'
         // 1 - 'warn'
