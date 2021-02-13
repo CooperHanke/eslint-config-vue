@@ -1,5 +1,5 @@
 {
-  "name": "@cooperhanke/eslint-config-view",
+  "name": "@cooperhanke/eslint-config-vue",
   "version": "1.0.0",
   "description": "Preferred eslint-config for Cooper",
   "main": "index.js",
